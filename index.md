@@ -7,10 +7,12 @@ The final ray-tracer makes use of hard-coded BRDFs implemented using a Monte Car
 The following are a selected set of output images from the ray-tracer.
 ![Image of Car](images/Car1Mine.png)
 ![Image of Glass Dragon](images/CorrectGlassDragon.png)
-![Image of Full Rendering Window](images/FullWindow.png)
+![Image of Full Rendering Window](images/FullWindow.PNG)
 ![Image of Metallic Rings](images/Metal.png)
 ![Image of Refractive Objects](images/Refract.png)
 ![Image of the Standard Cornell Box](images/Cornell68015Samples.png)
 
 ## Project Report
 The full project report is available upon request, as this work was produced as part of my education at the University of Surrey its contents may be protected under agreements made upon enrolling.
+
+[Email me](mailto:jamesp.mp@gmail.com)
